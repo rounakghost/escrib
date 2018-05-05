@@ -1,0 +1,12 @@
+# Uski azib adat
+## by Faisal Manzer on lifestyle
+azib si adat uski
+tori azib thi wo... bas tori azib
+
+mei gusse me khana nahi kata tha... wo kahti “Achha hai buke pet sone ka drd samaj aayega”
+
+mei gusse me ghr se raat ko nikal jata tha... wo kahti “Achha hai begahro ka drd samaj ayega”
+
+mei bina baat kr gussa ho jata tha usse... wo kahti “Jab thik ho jao to bata dena”
+
+pr wo pata nahi ku meri awaz sun kr so jati thi... har baar... barso se baat nahi hui thi hamari... pr aaj fir wo so gai

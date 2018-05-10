@@ -1,0 +1,15 @@
+
+# HTID:5072208: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:5072208:
+
+ErrorDocument 404 /error/404.php
+
+ErrorDocument 403 /error/403.php
+
+RewriteEngine On
+RewriteRule ^([a-z\.0-9A-Z]+\/[a-zA-Z\-]+)$ /handel/index.php?url=$1
+
+<filesMatch ".?(css|jpg|jpeg|png|gif|js|ico)$">
+Header set Cache-Control "max-age=604800, public"
+</filesMatch>
